@@ -10,7 +10,7 @@ A colorful, professional-looking To-Do List built using **HTML**, **CSS**, and *
 
 - ✅ Add new tasks dynamically
 - ✅ Mark tasks as complete with a click (toggle strike-through)
-- ✅ Delete tasks using a 🗑️ button
+- ✅ Delete tasks using a Remove button
 - ✅ Instant UI updates with no page reload
 - ✅ Stylish UI with gradients, hover effects, and smooth layout
 
