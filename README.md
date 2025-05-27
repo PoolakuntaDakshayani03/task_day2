@@ -1,6 +1,6 @@
 # task_day2
 
-# 🌟 To-Do List Web App (Enhanced)
+# 🌟 To-Do List Web App 
 
 A colorful, professional-looking To-Do List built using **HTML**, **CSS**, and **Vanilla JavaScript**. This project was created as part of the **Elevate Labs Web Development Internship** (Task 2).
 
