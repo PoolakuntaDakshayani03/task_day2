@@ -39,7 +39,7 @@ A colorful, professional-looking To-Do List built using **HTML**, **CSS**, and *
 3. The app will open in your browser.
 4. Use the input field to type a task and click ➕ **Add**.
 5. Click on the task to **mark it as complete**.
-6. Click 🗑️ to **delete** a task.
+6. Click Remove to **delete** a task.
 
 ---
 
@@ -65,17 +65,8 @@ This project follows the **Mini Guide** provided in the internship task:
 
 ---
 
-## 🧠 Outcome
 
-By completing this project, you will strengthen your skills in:
-
-- JavaScript fundamentals (event listeners, DOM API)
-- Responsive and interactive UI design
-- Writing maintainable frontend code without libraries
-
----
-
-✅ **Project by:** [Your Name]  
+✅ **Project by:** P Dakshayani  
 🎓 **Internship:** Elevate Labs – Web Development Internship  
 🛠️ **Task 2:** Build a To-Do List Web App
 
